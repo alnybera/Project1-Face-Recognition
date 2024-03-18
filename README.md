@@ -6,13 +6,15 @@ Data yang digunakan adalah data Data CelebA (Celebrities Attributes Dataset) yan
 ![image](https://github.com/alnybera/Project1-Face-Recognition/assets/163568585/03ac289c-6cb6-4212-91f8-f20a9e0e5f09)
 Project Face recognition kali ini menggunakan arsitektur Interception ResnetV2
 Interception ResNet-V2 merupakan sebuah modifikasi dari arsitektur ResNet-V2 yang ditambahkan dengan komponen "interception" untuk meningkatkan kemampuan pemahaman fitur dalam jaringan. Konsep "interception" memungkinkan jaringan untuk menggabungkan informasi dari berbagai tingkat resolusi atau kedalaman, sehingga memperkaya representasi fitur yang diekstraksi. Model improvement yang digunakan adalah Hyperparameter Tunning - Hyperband. Hasil model yang diuji menggunakan Conffusion matrix menghasilkan nilai 0.59
-##Requirements
-Python 3.9
-Tensorflow dan Keras
-Scikit-Learn
-Numpy
-Pandas
-Matplotlib
-Seaborn
-##Contact
+
+## Requirements
+  Python 3.9
+  Tensorflow dan Keras
+  Scikit-Learn
+  Numpy
+  Pandas
+  Matplotlib
+  Seaborn
+
+## Contact
 Jika Anda memiliki saran, penyempurnaan, atau perbaikan, jangan ragu untuk menghubungi saya di bernadeta.alnybera@gmail.com
